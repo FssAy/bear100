@@ -1,0 +1,8 @@
+# IDE
+/.idea
+
+# build
+/target
+
+# debug
+/debug
