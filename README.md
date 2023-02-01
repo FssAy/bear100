@@ -65,8 +65,8 @@ To build the project run command `cargo build --bin bear100 --release`.
 This software works only on 64 bit versions of Windows.
 
 ## Results
-| Before                                                                                             | After                                        |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------|
-| <p style="text-align:center;"><img src="https://i.imgur.com/6GVuLoO.png" width=50% height=50%></p> | <p style="text-align:center;"><img src="https://i.imgur.com/eAvvHZ0.png" width=50% height=50%></p> |
+| Before                                                           | After                                                            |
+|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+| <img src="https://i.imgur.com/6GVuLoO.png" width=50% height=50%> | <img src="https://i.imgur.com/eAvvHZ0.png" width=50% height=50%> |
 
 [Click for video showcase.](https://youtu.be/HlnrDJioqLQ)
