@@ -26,9 +26,9 @@ The executable does not need to be run as an administrator, but if any errors oc
 - [ ] Resets already collected bears *(might not be possible)*
 
 ## Tested on:
-- game version - `STEAM 1.0.5.53248`
+- game version - `STEAM 1.0.6.3374`
 - game mode - `singleplayer` `multiplayer`
-- day - `18 December 2022`
+- day - `01 February 2023`
 - os - `Windows 10 Pro x64`
 
 ## Config
@@ -40,7 +40,7 @@ The default config:
 {
   "process_name": "NeedForSpeedUnbound.exe",
   "offsets": [
-    82974640,
+    83016192,
     8,
     960,
     32,
