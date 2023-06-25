@@ -9,8 +9,8 @@ EA didn't implement any anti-cheat system, even on the server side. That's why w
 increases by millions of dollars for no reason nothing bad happens. <br>
 Either way I am not responsible for any unwanted behaviour caused by this software, use it on your own risk.
 
-### NOW AVAILABLE FOR VOL.02
-<img src="https://i.imgur.com/zsUiLRX.png" width="120">
+### NOW AVAILABLE FOR VOL.03
+<img src="https://i.imgur.com/znWqmWB.png" width="120">
 
 ## Usage
 *If this instruction is not followed an error will occur.* <br>
@@ -29,9 +29,9 @@ The executable does not need to be run as an administrator, but if any errors oc
 - [ ] Resets already collected bears *(might not be possible)*
 
 ## Tested on:
-- game version - `STEAM 1.0.6.24400`
+- game version - `STEAM 1.0.6.53569`
 - game mode - `singleplayer` `multiplayer`
-- day - `31 March 2023`
+- day - `25 June 2023`
 - os - `Windows 10 Pro x64`
 
 ## Config
@@ -43,11 +43,11 @@ The default config:
 {
   "process_name": "NeedForSpeedUnbound.exe",
   "offsets": [
-    84103280,
+    85013392,
     8,
     960,
     32,
-    116
+    100
   ],
   "replace_value": 100000000,
   "timeout_s": 4,

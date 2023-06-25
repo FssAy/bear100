@@ -102,7 +102,7 @@ impl Default for Config {
     fn default() -> Self {
         Self {
             process_name: "NeedForSpeedUnbound.exe".to_string(),
-            offsets: vec![0x5035070, 0x8, 0x3C0, 0x20, 0x74],
+            offsets: vec![0x05113390, 0x8, 0x3C0, 0x20, 0x64],
             replace_value: 100_000_000,
             timeout_s: 4,
             refresh_rate_ms: 700,
