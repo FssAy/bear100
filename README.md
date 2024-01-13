@@ -1,3 +1,12 @@
+# CHEAT OUTDATED, READ BEFORE MAKING AN ISSUE
+With every patch it is required to update the offsets. I've uninstalled the game and will never update the cheat.
+
+If you want to achieve the same effect - download the Frosty Editor tool, find the Bear collectable entity and change it's value to any amount of cash you want. Visit NFS modding Discord servers to see how to use the Frosty Editor and mod the game.
+
+If you want to contribute - do a pointer scan for the Bear collectible value, find offsets that are as similar to the ones in the config file (there always will be thousands of different offsets, but these for some reason are the most reliable) and do a PR with new offsets in the [config builder](https://github.com/FssAy/bear100/blob/68ae75738b581ca24c8f5e269c38999aae029b83/bear100/config.rs#L105).
+
+# 
+
 ### ---> !!! Important Notice !!! <---
 > **Warning**
 > If you are an idiot and don't know how to use the command line on Windows, just use the "NOOB EDITION". It's the same cheat but packed into a trainer UI, so you would have to be special in order to fuck this up.
