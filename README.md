@@ -9,14 +9,14 @@ If you want to contribute - do a pointer scan for the Bear collectible value, fi
 
 ### ---> !!! Important Notice !!! <---
 > **Warning**
-> If you are an idiot and don't know how to use the command line on Windows, just use the "NOOB EDITION". It's the same cheat but packed into a trainer UI, so you would have to be special in order to fuck this up.
->  If for some reason you don't have enough IQ to navigate to the releases page, here is a [link](https://github.com/DmitrijVC/bear100/releases/download/v1.0.3-trainer/unbound-trainer-vol3.exe) that will automatically download the "NOOB EDITION".
+> If you don't know how to use the command line on Windows, just use the "NOOB EDITION". It's the same cheat but packed into a trainer UI, so you cannot mess it up.
+>  If for some reason you don't know how to navigate to the releases page, here is a [link](https://github.com/DmitrijVC/bear100/releases/download/v1.0.3-trainer/unbound-trainer-vol3.exe) that will automatically download the "NOOB EDITION".
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUzNjVrZmdudTRyaTE4ZnNtOHo0Zm9sbGNuMzNyNmQ0NDhpbmZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x0GeFXErpcRk4/giphy.gif" style="height: 275px; left: 0px; top: 0px; opacity: 0;">
 
 > **Warning**
-> If you are an idiot and don't know how to use the command line on Windows, just use the "NOOB EDITION". It's the same cheat but packed into a trainer UI, so you would have to be special in order to fuck this up.
->  If for some reason you don't have enough IQ to navigate to the releases page, here is a [link](https://github.com/DmitrijVC/bear100/releases/download/v1.0.3-trainer/unbound-trainer-vol3.exe) that will automatically download the "NOOB EDITION".
+> If you don't know how to use the command line on Windows, just use the "NOOB EDITION". It's the same cheat but packed into a trainer UI, so you cannot mess it up.
+>  If for some reason you don't know how to navigate to the releases page, here is a [link](https://github.com/DmitrijVC/bear100/releases/download/v1.0.3-trainer/unbound-trainer-vol3.exe) that will automatically download the "NOOB EDITION".
 ### ---> !!! Important Notice !!! <---
 
 <br>
